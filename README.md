@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi i am GeantCreeper
+
+<div align="center">
+  <img src="snake-dark.svg" alt="snake">
+</div>
 
 <!--
 **GeantCreeper/GeantCreeper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
