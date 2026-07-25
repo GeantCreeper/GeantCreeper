@@ -1,7 +1,7 @@
 ## Hi i am GeantCreeper
 
 <div align="center">
-  <img src="snake-dark.svg" alt="snake">
+  <img src="snake.svg" alt="snake">
 </div>
 
 <!--
